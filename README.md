@@ -1,7 +1,7 @@
 # Hi, I'm Naman Luthra! 👨🏻‍💻
 
 ## About Me
-I am working as a software engineer at Whatfix. I am also exploring AI research projects focusing on retrieval augmented generation and enterprise search. Before this, I interned at Whatfix, Basys.ai, and Clearfeed, working on various full-stack projects.
+I am working as a software engineer at Whatfix. I am also exploring AI projects focusing on retrieval augmented generation and chain of thought modals. Before this, I interned at Whatfix, Basys.ai, and Clearfeed, working on various full-stack projects.
 
 I am a proud alumnus of Birla Institute of Technology and Science, Pilani, where I got a degree in Computer Science Engineering.
 
