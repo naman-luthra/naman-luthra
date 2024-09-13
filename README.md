@@ -1,11 +1,23 @@
 # Hi, I'm Naman Luthra! 👨🏻‍💻
 
 ## About Me
-I am working as a Software Engineer Intern at Clearfeed. I am also working towards my degree in Computer Science Engineering at one of India's top engineering universities Birla Institute of Technology and Science Pilani, Main Campus. I have recently intered at basys.ai a Harvard based Health Tech Startup where I worked on building full stack web applications using my skills. I have also interned in a US based Edtech startup bytelearn where I worked as a front end developer. I can help you build scalable and responsive web applications using my engineering skills :)
+I am working as a software engineer at Whatfix. I am also exploring AI research projects focusing on retrieval augmented generation and enterprise search. Before this, I interned at Whatfix, Basys.ai, and Clearfeed, working on various full-stack projects.
 
-To know more about me visit my website [namanluthra.me](https://namanluthra.me/)
+I am a proud alumnus of Birla Institute of Technology and Science, Pilani, where I got a degree in Computer Science Engineering.
 
-You can see my resume here [Naman Luthra's Resume](https://drive.google.com/file/d/1mHrJTGdXRmvTNDGLak9CWZnVycNn1Y11/view?usp=sharing)
+### Skills
+- **Programming Languages:** JavaScript (Proficient), C++ (Proficient), Python (Familiar)
+- **Technologies:** TypeScript, React.js, Next.js, Node.js, Nest.js, SQL, Sequelize.js, and more.
 
-## Contact Me
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/namanluthra/). I'm always interested in exploring new opportunities.
+## Achievements
+- Winner of the Whatfix R&D Global Hackathon 2024.
+- Top student in the Data Structures and Algorithms course at BITS Pilani.
+- Scored in the 99.84+ percentile on the JEE Mains 2020.
+
+## Explore More
+- **Personal Website:** [namanluthra.me](https://namanluthra.me/)
+- **Resume:** [View My Resume](https://drive.google.com/file/d/1mHrJTGdXRmvTNDGLak9CWZnVycNn1Y11/view?usp=sharing)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/namanluthra/)
+- **GitHub Repositories:** [My Projects](https://github.com/naman-luthra)
+
+Feel free to reach out for collaborations or just a chat about technology and innovation!
